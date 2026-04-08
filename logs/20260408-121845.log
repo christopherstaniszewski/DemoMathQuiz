@@ -1,0 +1,43 @@
+INFO    : Building target web
+INFO    : XSL conversion of C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source\main.ptx by C:\Users\cstaniszewski\.ptx\2.38.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\cstaniszewski\.ptx\2.38.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+INFO    : converting latex-image pictures from C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source\main.ptx to svg graphics for placement in C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\generated-assets\latex-image
+INFO    : extracting latex-image pictures from C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source\main.ptx
+INFO    : string parameters passed to extraction stylesheet: {'cli.version': '2.38', 'publisher': 'C:/Users/cstaniszewski/PreTeXt/DemoMathQuiz/publication/publication.ptx'}
+INFO    : discovering source file's directory name: C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source
+INFO    : verifying and expanding input directory: C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source\../generated-assets
+INFO    : input directory expanded to absolute path: C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\generated-assets
+INFO    : verifying and expanding input directory: C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source\../assets
+INFO    : input directory expanded to absolute path: C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\assets
+INFO    : XSL conversion of C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source\main.ptx by C:\Users\cstaniszewski\.ptx\2.38.0\core\xsl\extract-latex-image.xsl
+INFO    : successful application of C:\Users\cstaniszewski\.ptx\2.38.0\core\xsl\extract-latex-image.xsl
+INFO    : converting tikz-example-diagram.tex to tikz-example-diagram.pdf
+INFO    : cropping tikz-example-diagram.pdf to cropped-tikz-example-diagram.pdf
+INFO    : renaming cropped-tikz-example-diagram.pdf to tikz-example-diagram.pdf
+INFO    : converting tikz-example-diagram.pdf to tikz-example-diagram.svg
+INFO    : Removing temporary directory C:\Users\CSTANI~1\AppData\Local\Temp\ptx-b_rh6_28
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\output\web.
+INFO    : XSL conversion of C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source\main.ptx by C:\Users\cstaniszewski\.ptx\2.38.0\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : successful application of C:\Users\cstaniszewski\.ptx\2.38.0\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : Downloading rs services file from https://runestone.academy/cdn/runestone/latest/webpack_static_imports.xml.
+INFO    : Runestone Services via online CDN query: version 7.13.2
+INFO    : Downloading Runestone Services, version 7.13.2
+INFO    : Extracting Runestone Services from archive file
+INFO    : Building custom css theme: theme-default-modern
+INFO    : converting C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source\main.ptx to HTML in C:\Users\CSTANI~1\AppData\Local\Temp\ptx-px36n35v
+INFO    : XSL conversion of C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source\main.ptx by C:\Users\cstaniszewski\.ptx\2.38.0\core\xsl\pretext-html.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking all deprecated elements.
+INFO    : successful application of C:\Users\cstaniszewski\.ptx\2.38.0\core\xsl\pretext-html.xsl
+INFO    : Removing temporary directory C:\Users\CSTANI~1\AppData\Local\Temp\ptx-px36n35v
+INFO    : Removing temporary directory C:\Users\CSTANI~1\AppData\Local\Temp\ptx-2b7gzk_1
+INFO    : 
+Finished build for target web. Run `pretext view web` to see the results.
+
+INFO    : 
+Success!  Built requested target(s) without errors.
+
+INFO    : 
