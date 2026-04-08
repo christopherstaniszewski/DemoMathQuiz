@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Front Matter",
   "number": "",
   "title": "Front Matter",
-  "body": "  Author X. Lastname    This is the abstract but better   "
+  "body": "  Christopher Staniszewski    This is the abstract but better   "
 },
 {
   "id": "section-1",

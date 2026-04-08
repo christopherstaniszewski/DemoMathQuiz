@@ -1,0 +1,33 @@
+INFO    : Building target web
+INFO    : XSL conversion of C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source\main.ptx by C:\Users\cstaniszewski\.ptx\2.38.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\cstaniszewski\.ptx\2.38.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\output\web.
+INFO    : discovering source file's directory name: C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source
+INFO    : verifying and expanding input directory: C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source\../generated-assets
+INFO    : input directory expanded to absolute path: C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\generated-assets
+INFO    : verifying and expanding input directory: C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source\../assets
+INFO    : input directory expanded to absolute path: C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\assets
+INFO    : XSL conversion of C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source\main.ptx by C:\Users\cstaniszewski\.ptx\2.38.0\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : successful application of C:\Users\cstaniszewski\.ptx\2.38.0\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : Downloading rs services file from https://runestone.academy/cdn/runestone/latest/webpack_static_imports.xml.
+INFO    : Runestone Services via online CDN query: version 7.13.2
+INFO    : Downloading Runestone Services, version 7.13.2
+INFO    : Extracting Runestone Services from archive file
+INFO    : Building custom css theme: theme-default-modern
+INFO    : converting C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source\main.ptx to HTML in C:\Users\CSTANI~1\AppData\Local\Temp\ptx-bffe8p5x
+INFO    : XSL conversion of C:\Users\cstaniszewski\PreTeXt\DemoMathQuiz\source\main.ptx by C:\Users\cstaniszewski\.ptx\2.38.0\core\xsl\pretext-html.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking all deprecated elements.
+INFO    : successful application of C:\Users\cstaniszewski\.ptx\2.38.0\core\xsl\pretext-html.xsl
+INFO    : Removing temporary directory C:\Users\CSTANI~1\AppData\Local\Temp\ptx-bffe8p5x
+INFO    : Removing temporary directory C:\Users\CSTANI~1\AppData\Local\Temp\ptx-zrdxgrxn
+INFO    : 
+Finished build for target web. Run `pretext view web` to see the results.
+
+INFO    : 
+Success!  Built requested target(s) without errors.
+
+INFO    : 
