@@ -6,14 +6,14 @@
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <article>
-    <title>Introduction to Functions</title>
+    <title>MATH 123 Introduction to Functions Sample Quiz</title>
 
-    <subtitle>MATH 123R-003 Spring 2026</subtitle>
+    <subtitle>Spring 2026</subtitle>
 
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
    
-    <xi:include href="./information.ptx" />
+    <!-- <xi:include href="./information.ptx" /> -->
 
     <xi:include href="./grading.ptx"/>
 
