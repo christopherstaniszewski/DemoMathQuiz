@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="Grading">
+
+  <title>Grading</title>
+  
+   <subsection>
+      <title>Homework</title>
+
+      <p>
+        Homework for this course will be submitted through the online system MyOpenMath.  
+        To create an account and enroll in our course, go to <url href="https://www.myopenmath.com/" visual="myopenmath">MyOpenMath</url> and either 
+        log in using your existing account, or create a new account by clicking on 
+        `Register as a new student.'  Use the following information to find our course:
+        <dl>
+            <li>
+              <title>Course Name:</title>
+
+              <p>S26 Introduction to Functions</p>
+            </li>
+
+            <li>
+              <title>Course ID:</title>
+
+              <p>315120</p>
+            </li>
+
+           <li>
+            <title>Enrollment Key:</title>
+            
+            <p>s26math</p>
+          </li>
+        </dl>
+        Homework assignments can be worked on past the due date by using a ``Late Pass.''  
+        Work done under a Late Pass will receive a minor grade deduction.  
+        All homework assignments, even those done using a Late Pass, must be completed by the last day of classes.
+      </p>
+    
+
+    </subsection>
+
+    <subsection>
+    <title>Quizzes/Classwork/Assignments/Projects</title>
+
+      <p>
+        No makeup assignments here, but I will drop your lowest two quiz scores.  
+      </p>
+    </subsection>
+
+
+   <subsection>
+    <title>Exams</title>
+        <p>
+          We will have three in-semester exams held on the following dates.
+          <ul>
+            <li>
+              <p>
+                Monday, February 23rd
+              </p>
+            </li>
+            <li>
+              <p>
+                Monday, March 30th
+              </p>
+            </li>
+            <li>
+              <p>
+                Monday, April 27th
+              </p>
+            </li>
+            
+          </ul>
+        </p>
+  </subsection>
+
+  <subsection>
+    <title>Final Exam</title>
+
+      <p>
+        Our cumulative final exam will be held Monday, May 11th from 8:00am-11:00am in Hemenway Hall 405.
+      </p>
+    </subsection>
+
+
+
+
+    <subsection>
+      <title>Final Grades</title>
+
+      <p>
+        The following percentage weights are used for calculating your weighted course average.
+      </p>
+    
+      <tabular halign="right">
+        <row header="yes" bottom="minor" >
+          <cell>Category</cell>
+          <cell>Weight</cell>
+        </row>
+        <row>
+          <cell>Homework</cell>
+          <cell>10%</cell>
+        </row>
+        <row>
+          <cell>Quizzes</cell>
+          <cell>20%</cell>
+        </row>
+        <row>
+          <cell>Exams</cell>
+          <cell>40%</cell>
+        </row>
+        <row>
+          <cell>Final Exam</cell>
+          <cell>30%</cell>
+        </row>
+      </tabular>
+
+
+      <p>
+        Final grades will be assigned based on the following scale.
+      </p>
+
+      <tabular halign="center">
+        <row header="yes" bottom="minor" >
+          <cell>Percentage</cell>
+          <cell>Grade</cell>
+        </row>
+        <row>
+          <cell>93-100</cell>
+          <cell>A</cell>
+        </row>
+        <row>
+          <cell>90-93</cell>
+          <cell>A-</cell>
+        </row>
+        <row>
+          <cell>87-90</cell>
+          <cell>B+</cell>
+        </row>
+        <row>
+          <cell>83-87</cell>
+          <cell>B</cell>
+        </row>
+        <row>
+          <cell>80-83</cell>
+          <cell>B-</cell>
+        </row>
+        <row>
+          <cell>77-80</cell>
+          <cell>C+</cell>
+        </row>
+        <row>
+          <cell>73-77</cell>
+          <cell>C</cell>
+        </row>
+        <row>
+          <cell>70-73</cell>
+          <cell>C-</cell>
+        </row>
+        <row>
+          <cell>67-70</cell>
+          <cell>D+</cell>
+        </row>
+        <row>
+          <cell>63-67</cell>
+          <cell>D</cell>
+        </row>
+        <row>
+          <cell>60-63</cell>
+          <cell>D-</cell>
+        </row>
+        <row>
+          <cell>Below 60</cell>
+          <cell>F</cell>
+        </row>
+      </tabular>
+
+    </subsection>
+
+
+  </section>

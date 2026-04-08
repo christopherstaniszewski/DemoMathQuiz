@@ -1,22 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?>
 
-  <docinfo>
+<!-- This is the main course file for ... . It is used to generate all the public facing course materials so those can be hosted online.  -->
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
+  <!-- Include common macros etc: -->
+  <xi:include href="./docinfo.ptx" />
+  <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
+  <article>
+    <title>Introduction to Functions</title>
 
-    <document-id>authorslastnamelowercase-ShortTitleCamelCase</document-id>
+    <subtitle>MATH 123R-003 Spring 2026</subtitle>
 
-    <macros>\newcommand{\foo}{b^{ar}}</macros>
-    <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
-  </docinfo>
-
-  <article xml:id="shorttitlelowercase">
-    <title>The title of my groundbreaking paper</title>
-
+    <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
-    
-    <xi:include href="./introduction.ptx" />
-    <xi:include href="./section-1.ptx" />
-    <xi:include href="./section-2.ptx" />
+   
+    <xi:include href="./information.ptx" />
+
+    <xi:include href="./grading.ptx"/>
+
+    <xi:include href="./policies.ptx"/>
+
+    <xi:include href="./FAQ.ptx"/>
+
+    <xi:include href="./dates.ptx"/>
+
   </article>
 
-</pretext>
+  </pretext>

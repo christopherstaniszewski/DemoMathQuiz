@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="information" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Information</title>
+
+  <p>
+    <dl>
+      <li>
+        <title>Instructor</title>
+
+        <p>
+          Christopher Staniszewski, Ph. D. (he/him), HH 402C, <url href="mailto:cstaniszewski@framingham.edu">cstaniszewski@framingham.edu</url>.
+        </p>
+
+      </li>
+
+      <li>
+         <title>Student Help Hours</title>
+
+          <p>
+            Mondays, Thursdays, and Fridays at 11:30-12:30 and/or by appointment
+          </p>
+      </li>
+
+      <li>
+        <title>Class meets</title>
+
+        <p>
+          MW 2:30-4:20 in HH 405 (Lecture),  F 12:30-1:20 (Recitation A) or F 1:30-2:20 (Recitation B)
+        </p>
+      </li>
+
+      <li>
+        <title>Course Description</title>
+
+        <p>
+          An exploration of numerical, graphical, and symbolic approaches to function concepts with emphasis
+on real-world applications, modeling, and problem-solving skills. Topics include polynomial and
+rational functions, equations and inequalities, systems of linear equations, and the connection
+between functions and their graphs. 
+        </p>
+      </li>
+
+      <li>
+        <title>Prerequisite</title>
+
+        <p>
+          Satisfactory score on the mathematics placement.  Also, our course is a prerequisite other courses, including MATH 180 Precalculus.
+Some of them require you to earn at least a C in MATH 123.
+        </p>
+      </li>
+
+      <li>
+        <title>Homework</title>
+
+        <p>
+          All homework will appear in <url href="https://www.myopenmath.com/">MyOpenMath</url>.
+        </p>
+
+      </li>
+
+
+
+      <li>
+        <title>Textbook</title>
+
+        <p>
+          <pubtitle>College Algebra</pubtitle>
+          by OpenStax (5th edition). <url href="https://openstax.org/details/books/college-algebra-2e" visual="openstax/precalculus">Read Online</url>
+        </p>
+
+        <blockquote>
+          <title>Reading Mathematics</title>
+          <p>
+            <q>
+              Don’t just read it; fight it!
+              Ask your own questions, look for your own examples, discover your own proofs.
+              Is the hypothesis necessary?
+              Is the converse true?
+              What happens in the classical special case?
+              What about the degenerate cases?
+              Where does the proof use the hypothesis?
+            </q>
+          </p>
+
+          <attribution><url href="https://en.wikipedia.org/wiki/Paul_Halmos" visual="wikipedia/Paul_Halmos">Paul Halmos</url></attribution>
+        </blockquote>
+      </li>
+ 
+    </dl>
+  </p>
+
+
+</section>
