@@ -179,6 +179,7 @@
     <title>Problem 5</title>
       <p>
        Write a formula for the quadratic function pictured below.
+       </p>
        <image source="assets/qplot1.png" width="50%">
     <shortdescription>A parabola.</shortdescription>
     <description>
@@ -187,7 +188,7 @@
         </p>
     </description>
 </image>
-      </p>
+      
     </subsection>
   </section>
 
@@ -195,6 +196,7 @@
     <title>Problem 6</title>
       <p>
        Write a formula for the quadratic function pictured below.
+       </p>
        <image source="assets/frog.jpg" width="50%">
     <shortdescription>A parabola.</shortdescription>
     <description>
@@ -203,7 +205,6 @@
         </p>
     </description>
 </image>
-      </p>
     </subsection>
   </section>
 
@@ -211,6 +212,7 @@
     <title>Problem 7</title>
       <p>
        Write a formula for the quadratic function pictured below.
+       </p>
        <image source="images/from.jpg" width="50%">
     <shortdescription>A parabola.</shortdescription>
     <description>
@@ -219,13 +221,14 @@
         </p>
     </description>
 </image>
-      </p>
+      
     </subsection>
 
 <subsection>
     <title>Problem 8</title>
       <p>
        Write a formula for the quadratic function pictured below.
+       </p>
        <image source="assets/from.jepg" width="50%">
     <shortdescription>A parabola.</shortdescription>
     <description>
@@ -234,7 +237,7 @@
         </p>
     </description>
 </image>
-      </p>
+      
     </subsection>
 
 
