@@ -28,11 +28,33 @@
    <subsection>
     <title>Problem 3</title>
         <p>
-          We will have three in-semester exams held on the following dates.
+          For each table below, determine whether the data represent a linear function. 
+          If it is linear, write a linear function <m>f(x)=mx+b</m> for the data in the table.
           <ul>
             <li>
               <p>
-                Monday, February 23rd
+                <tabular halign="right">
+                <row header="yes" bottom="minor" >
+                  <cell>x</cell>
+                  <cell>f(x)</cell>
+                </row>
+                <row>
+                  <cell>0</cell>
+                  <cell>2</cell>
+                </row>
+                <row>
+                  <cell>1</cell>
+                  <cell>5</cell>
+                </row>
+                <row>
+                  <cell>2</cell>
+                  <cell>8</cell>
+                </row>
+                <row>
+                  <cell>3</cell>
+                  <cell>11</cell>
+                </row>
+              </tabular>
               </p>
             </li>
             <li>
@@ -70,8 +92,8 @@
     
       <tabular halign="right">
         <row header="yes" bottom="minor" >
-          <cell>Category</cell>
-          <cell>Weight</cell>
+          <cell>x</cell>
+          <cell>f(x)</cell>
         </row>
         <row>
           <cell>Homework</cell>
