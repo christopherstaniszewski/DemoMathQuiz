@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1",
   "title": "MATH 123 Quiz Demo",
-  "body": " MATH 123 Quiz Demo   Problem 1  Convert the following quadratic function to vertex form ( ). State the vertex. Further, state the domain and range.     Problem 2  Solve the following system of equations.     Problem 3  For each table below, determine whether the data represent a linear function. If it is linear, write a linear function for the data in the table.          0  2    1  5    2  8    3  11             0  4    2  10    5  19    9  31            0  1    1  4    2  9    3  16            -2  -8    -1  -2    0  4    1  11            -3  12    -1  6    1  0    3  -6         Problem 4  For the following piecewise function, evaluate $f(-1)$, $f(0)$, and $f(4)$. Then sketch a graph of the function. \\[ f(x)=\\left\\{ \\begin{array}{ll} 5x \\amp x\\le 0 \\\\ 3 \\amp 0\\leq x \\leq 2 \\\\ x^2 \\amp x \\ge 2 \\\\ \\end{array} \\right. \\]   Problem 5    "
+  "body": " MATH 123 Quiz Demo   Problem 1  Convert the following quadratic function to vertex form ( ). State the vertex. Further, state the domain and range.     Problem 2  Solve the following system of equations.     Problem 3  For each table below, determine whether the data represent a linear function. If it is linear, write a linear function for the data in the table.          0  2    1  5    2  8    3  11             0  4    2  10    5  19    9  31            0  1    1  4    2  9    3  16            -2  -8    -1  -2    0  4    1  11            -3  12    -1  6    1  0    3  -6         Problem 4     Problem 5    "
 }
 ]
 
