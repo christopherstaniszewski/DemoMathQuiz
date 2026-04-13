@@ -179,6 +179,14 @@
     <title>Problem 5</title>
       <p>
        Write a formula for the quadratic function pictured below.
+       <image source="images/qplot1.png" width="50%">
+    <shortdescription>A parabola.</shortdescription>
+    <description>
+        <p>
+            A downward-opening parabola.
+        </p>
+    </description>
+</image>
       </p>
     </subsection>
   </section>
