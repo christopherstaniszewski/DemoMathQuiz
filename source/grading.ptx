@@ -30,7 +30,7 @@
         <p>
           For each table below, determine whether the data represent a linear function. 
           If it is linear, write a linear function <m>f(x)=mx+b</m> for the data in the table.
-          <ul>
+          <ol>
             <li>
               <!-- <p> -->
                 <tabular halign="right">
@@ -154,7 +154,7 @@
               </tabular>
             </li>
             
-          </ul>
+          </ol>
         </p>
   </subsection>
 
