@@ -58,14 +58,100 @@
               <!-- </p> -->
             </li>
             <li>
-              <p>
-                Monday, March 30th
-              </p>
+              <tabular halign="right">
+                <row header="yes" bottom="minor" >
+                  <cell><m>x</m></cell>
+                  <cell><m>f(x)</m></cell>
+                </row>
+                <row>
+                  <cell>0</cell>
+                  <cell>4</cell>
+                </row>
+                <row>
+                  <cell>2</cell>
+                  <cell>10</cell>
+                </row>
+                <row>
+                  <cell>5</cell>
+                  <cell>19</cell>
+                </row>
+                <row>
+                  <cell>9</cell>
+                  <cell>31</cell>
+                </row>
+              </tabular>
             </li>
             <li>
-              <p>
-                Monday, April 27th
-              </p>
+              <tabular halign="right">
+                <row header="yes" bottom="minor" >
+                  <cell><m>x</m></cell>
+                  <cell><m>f(x)</m></cell>
+                </row>
+                <row>
+                  <cell>0</cell>
+                  <cell>1</cell>
+                </row>
+                <row>
+                  <cell>1</cell>
+                  <cell>4</cell>
+                </row>
+                <row>
+                  <cell>2</cell>
+                  <cell>9</cell>
+                </row>
+                <row>
+                  <cell>3</cell>
+                  <cell>16</cell>
+                </row>
+              </tabular>
+            </li>
+            <li>
+              <tabular halign="right">
+                <row header="yes" bottom="minor" >
+                  <cell><m>x</m></cell>
+                  <cell><m>f(x)</m></cell>
+                </row>
+                <row>
+                  <cell>-2</cell>
+                  <cell>-8</cell>
+                </row>
+                <row>
+                  <cell>-1</cell>
+                  <cell>-2</cell>
+                </row>
+                <row>
+                  <cell>0</cell>
+                  <cell>4</cell>
+                </row>
+                <row>
+                  <cell>1</cell>
+                  <cell>11</cell>
+                </row>
+              </tabular>
+            </li>
+            <li>
+              <tabular halign="right">
+                <row header="yes" bottom="minor" >
+                  <cell><m>x</m></cell>
+                  <cell><m>f(x)</m></cell>
+                </row>
+                <row>
+                  <cell>-3</cell>
+                  <cell>12</cell>
+                </row>
+                <row>
+                  <cell>-1</cell>
+                  <cell>6</cell>
+                </row>
+                <row>
+                  <cell>1</cell>
+                  <cell>0</cell>
+                </row>
+                <row>
+                  <cell>3</cell>
+                  <cell>-6</cell>
+                </row>
+              </tabular>
             </li>
             
           </ul>
