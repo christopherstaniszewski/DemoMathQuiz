@@ -32,7 +32,7 @@
           If it is linear, write a linear function <m>f(x)=mx+b</m> for the data in the table.
           <ul>
             <li>
-              <p>
+              <!-- <p> -->
                 <tabular halign="right">
                 <row header="yes" bottom="minor" >
                   <cell>x</cell>
@@ -55,7 +55,7 @@
                   <cell>11</cell>
                 </row>
               </tabular>
-              </p>
+              <!-- </p> -->
             </li>
             <li>
               <p>
