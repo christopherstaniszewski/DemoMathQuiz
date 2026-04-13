@@ -164,6 +164,7 @@
 
   <subsection>
     <title>Problem 4</title>
+    <p> Sketch a graph of the following piecewise function. 
       <me>
       f(x) = \begin{cases}
         5x \amp x\le 0 \\
@@ -171,17 +172,13 @@
         x^2 \amp x \ge 2 \\
       \end{cases}
       </me>
+      </p>
     </subsection>
 
     <subsection>
     <title>Problem 5</title>
-      <me>
-      f(x) = \begin{cases}
-        0 &amp; x \leq 0 \\
-        \frac{100-x}{100} &amp; 0 &lt; x \leq 100 \\
-        0 &amp; x &gt; 100
-      \end{cases}
-      </me>
+      <p>
+       Write a formula for the quadratic function pictured below.
+      </p>
     </subsection>
-
   </section>
