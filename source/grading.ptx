@@ -176,6 +176,38 @@
     </subsection>
 
     <subsection>
+    <title>Problem 7</title>
+      <p>
+       Write a formula for the quadratic function pictured below.
+       </p>
+       <image source="images/frog.jpg" width="50%">
+    <shortdescription>A parabola.</shortdescription>
+    <description>
+        <p>
+            A downward-opening parabola.
+        </p>
+    </description>
+</image>
+      
+    </subsection>
+
+<subsection>
+    <title>Problem 8</title>
+      <p>
+       Write a formula for the quadratic function pictured below.
+       </p>
+       <image source="assets/frog.jpeg" width="50%">
+    <shortdescription>A parabola.</shortdescription>
+    <description>
+        <p>
+            A downward-opening parabola.
+        </p>
+    </description>
+</image>
+      
+    </subsection>
+
+    <subsection>
     <title>Problem 5</title>
       <p>
        Write a formula for the quadratic function pictured below.
@@ -208,37 +240,7 @@
     </subsection>
   </section>
 
-  <subsection>
-    <title>Problem 7</title>
-      <p>
-       Write a formula for the quadratic function pictured below.
-       </p>
-       <image source="images/from.jpg" width="50%">
-    <shortdescription>A parabola.</shortdescription>
-    <description>
-        <p>
-            A downward-opening parabola.
-        </p>
-    </description>
-</image>
-      
-    </subsection>
-
-<subsection>
-    <title>Problem 8</title>
-      <p>
-       Write a formula for the quadratic function pictured below.
-       </p>
-       <image source="assets/from.jepg" width="50%">
-    <shortdescription>A parabola.</shortdescription>
-    <description>
-        <p>
-            A downward-opening parabola.
-        </p>
-    </description>
-</image>
-      
-    </subsection>
+  
 
 
 
