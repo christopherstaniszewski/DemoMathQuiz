@@ -1,5 +1,5 @@
-<string>:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element p, got frontmatter
-<string>:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element frontmatter there
-<string>:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element sidebyside, got frontmatter
-<string>:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element proof, got frontmatter
-<string>:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element exercise, got frontmatter
+<string>:37:0:ERROR:RELAXNGV:RELAXNG_ERR_NOELEM: Expecting an element li, got nothing
+<string>:34:0:ERROR:RELAXNGV:RELAXNG_ERR_NOELEM: Expecting an element nbsp, got nothing
+<string>:34:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element blockquote, got p
+<string>:34:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
+<string>:34:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element sidebyside, got p
