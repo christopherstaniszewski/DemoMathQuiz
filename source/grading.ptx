@@ -164,21 +164,14 @@
 
   <subsection>
     <title>Problem 4</title>
-
-      <p>
-        For the following piecewise function, evaluate $f(-1)$, $f(0)$, and $f(4)$.  Then sketch a graph of the function.
-      </p>
-        \[   f(x)=\left\{
-		\begin{array}{ll}
-			5x \amp x\le 0 \\
-			3 \amp 0\leq x \leq 2 \\
-			x^2 \amp x \ge 2 \\
-		\end{array} 
-		\right. \]
+      <me>
+      f(x) = \begin{cases}
+        5x \amp x\le 0 \\
+        3 \amp 0\leq x \leq 2 \\
+        x^2 \amp x \ge 2 \\
+      \end{cases}
+      </me>
     </subsection>
-
-
-
 
     <subsection>
     <title>Problem 5</title>
