@@ -35,8 +35,8 @@
               <!-- <p> -->
                 <tabular halign="right">
                 <row header="yes" bottom="minor" >
-                  <cell>x</cell>
-                  <cell>f(x)</cell>
+                  <cell><m>x</m></cell>
+                  <cell><m>f(x)</m></cell>
                 </row>
                 <row>
                   <cell>0</cell>
