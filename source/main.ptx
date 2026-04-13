@@ -17,11 +17,11 @@
 
     <xi:include href="./grading.ptx"/>
 
-    <xi:include href="./policies.ptx"/>
+    <!-- <xi:include href="./policies.ptx"/>-->
 
-    <xi:include href="./FAQ.ptx"/>
+    <!-- <xi:include href="./FAQ.ptx"/>-->
 
-    <xi:include href="./dates.ptx"/>
+    <!-- <xi:include href="./dates.ptx"/>-->
 
   </article>
 

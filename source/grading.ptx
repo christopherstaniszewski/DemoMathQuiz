@@ -166,104 +166,29 @@
     <title>Problem 4</title>
 
       <p>
-        Our cumulative final exam will be held Monday, May 11th from 8:00am-11:00am in Hemenway Hall 405.
+        For the following piecewise function, evaluate $f(-1)$, $f(0)$, and $f(4)$.  Then sketch a graph of the function.
       </p>
+        \[   f(x)=\left\{
+		\begin{array}{ll}
+			5x \amp x\le 0 \\
+			3 \amp 0\leq x \leq 2 \\
+			x^2 \amp x \ge 2 \\
+		\end{array} 
+		\right. \]
     </subsection>
 
 
 
 
     <subsection>
-      <title>Final Grades</title>
-
-      <p>
-        The following percentage weights are used for calculating your weighted course average.
-      </p>
-    
-      <tabular halign="right">
-        <row header="yes" bottom="minor" >
-          <cell>x</cell>
-          <cell>f(x)</cell>
-        </row>
-        <row>
-          <cell>Homework</cell>
-          <cell>10%</cell>
-        </row>
-        <row>
-          <cell>Quizzes</cell>
-          <cell>20%</cell>
-        </row>
-        <row>
-          <cell>Exams</cell>
-          <cell>40%</cell>
-        </row>
-        <row>
-          <cell>Final Exam</cell>
-          <cell>30%</cell>
-        </row>
-      </tabular>
-
-
-      <p>
-        Final grades will be assigned based on the following scale.
-      </p>
-
-      <tabular halign="center">
-        <row header="yes" bottom="minor" >
-          <cell>Percentage</cell>
-          <cell>Grade</cell>
-        </row>
-        <row>
-          <cell>93-100</cell>
-          <cell>A</cell>
-        </row>
-        <row>
-          <cell>90-93</cell>
-          <cell>A-</cell>
-        </row>
-        <row>
-          <cell>87-90</cell>
-          <cell>B+</cell>
-        </row>
-        <row>
-          <cell>83-87</cell>
-          <cell>B</cell>
-        </row>
-        <row>
-          <cell>80-83</cell>
-          <cell>B-</cell>
-        </row>
-        <row>
-          <cell>77-80</cell>
-          <cell>C+</cell>
-        </row>
-        <row>
-          <cell>73-77</cell>
-          <cell>C</cell>
-        </row>
-        <row>
-          <cell>70-73</cell>
-          <cell>C-</cell>
-        </row>
-        <row>
-          <cell>67-70</cell>
-          <cell>D+</cell>
-        </row>
-        <row>
-          <cell>63-67</cell>
-          <cell>D</cell>
-        </row>
-        <row>
-          <cell>60-63</cell>
-          <cell>D-</cell>
-        </row>
-        <row>
-          <cell>Below 60</cell>
-          <cell>F</cell>
-        </row>
-      </tabular>
-
+    <title>Problem 5</title>
+      <me>
+      f(x) = \begin{cases}
+        0 &amp; x \leq 0 \\
+        \frac{100-x}{100} &amp; 0 &lt; x \leq 100 \\
+        0 &amp; x &gt; 100
+      \end{cases}
+      </me>
     </subsection>
-
 
   </section>
