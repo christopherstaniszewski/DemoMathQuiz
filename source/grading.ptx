@@ -2,7 +2,7 @@
 
 <section xml:id="Grading">
 
-  <title>Grading</title>
+  <title>MATH 123 Quiz Demo</title>
   
    <subsection>
       <title>Problem 1</title>
@@ -20,7 +20,11 @@
     <title>Problem 2</title>
 
       <p>
-        No makeup assignments here, but I will drop your lowest two quiz scores.  
+        Solve the following system of equations.  
+        <md>
+          <mrow>\frac{1}{2}x+\frac{1}{3}y \amp = \frac{1}{3}</mrow>
+          <mrow>\frac{3}{2}x+\frac{1}{4}y \amp = -\frac{1}{8}</mrow>
+        </md>
       </p>
     </subsection>
 
