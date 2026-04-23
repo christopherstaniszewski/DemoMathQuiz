@@ -24,8 +24,8 @@ var ptx_lunr_docs = [
   "url": "policies.html",
   "type": "Section",
   "number": "2",
-  "title": "Course Policies",
-  "body": " Course Policies   NACE Competencies: By completing this quiz, students are meeting aspects of the following NACE Competencies.    Career and Self-Development  Students will become aware of their own strengths and areas for continued growth.    Communication  Students are communicing difficult topics using terminology and notation from the field.    Critical Thinking  Can't do mathematics without it!   "
+  "title": "NACE Competencies",
+  "body": " NACE Competencies   By completing this quiz, students are meeting aspects of the following NACE Competencies.    Career and Self-Development  Students will become aware of their own strengths and areas for continued growth.    Communication  Students are communicing difficult topics using terminology and notation from the field.    Critical Thinking  Can't do mathematics without it!   "
 }
 ]
 
