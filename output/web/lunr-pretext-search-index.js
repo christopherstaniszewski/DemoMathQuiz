@@ -16,7 +16,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1",
   "title": "MATH 123 Quiz Demo",
-  "body": " MATH 123 Quiz Demo   Problem 1  Convert the following quadratic function to vertex form ( ). State the vertex. Further, state the domain and range.     Problem 2  Solve the following system of equations.     Problem 3  For each table below, determine whether the data represent a linear function. If it is linear, write a linear function for the data in the table.          0  2    1  5    2  8    3  11             0  4    2  10    5  19    9  31            0  1    1  4    2  9    3  16            -2  -8    -1  -2    0  4    1  11            -3  12    -1  6    1  0    3  -6         Problem 4  Sketch a graph of the following piecewise function.     Problem 7  Write a formula for the quadratic function pictured below.   A parabola.   A downward-opening parabola.      Problem 8  Write a formula for the quadratic function pictured below.   A parabola.   A downward-opening parabola.      Problem 5  Write a formula for the quadratic function pictured below.   A parabola.   A downward-opening parabola.      Problem 6  Write a formula for the quadratic function pictured below.   A parabola.   A downward-opening parabola.     "
+  "body": " MATH 123 Quiz Demo   Problem 1  Convert the following quadratic function to vertex form ( ). State the vertex. Further, state the domain and range.     Problem 2  Solve the following system of equations.     Problem 3  For each table below, determine whether the data represent a linear function. If it is linear, write a linear function for the data in the table.          0  2    1  5    2  8    3  11             0  4    2  10    5  19    9  31            0  1    1  4    2  9    3  16            -2  -8    -1  -2    0  4    1  11            -3  12    -1  6    1  0    3  -6         Problem 4  Sketch a graph of the following piecewise function.     Problem 5  Write a formula for the quadratic function pictured below.   A parabola.   A downward-opening parabola.     "
+},
+{
+  "id": "policies",
+  "level": "1",
+  "url": "policies.html",
+  "type": "Section",
+  "number": "2",
+  "title": "Course Policies",
+  "body": " Course Policies   NACE Competencies: By completing this quiz, students are meeting aspects of the following NACE Competencies.    Career and Self-Development  Students will become aware of their own strengths and areas for continued growth.    Communication  Students are communicing difficult topics using terminology and notation from the field.    Critical Thinking  Can't do mathematics without it!   "
 }
 ]
 
