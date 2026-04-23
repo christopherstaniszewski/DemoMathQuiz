@@ -17,7 +17,7 @@
 
     <xi:include href="./grading.ptx"/>
 
-    <!-- <xi:include href="./policies.ptx"/>-->
+    <xi:include href="./policies.ptx"/>
 
     <!-- <xi:include href="./FAQ.ptx"/>-->
 
